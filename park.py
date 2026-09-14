@@ -1,5 +1,6 @@
-
-
+#lukka ayres
+# PM
+# Theme Park Admission & Ride Eligibility System
 # greet user and say purpose of program
 print()
 print()
